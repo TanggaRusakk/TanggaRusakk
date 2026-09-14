@@ -50,10 +50,7 @@ An **Informatics Student at Ciputra University** passionate about building mobil
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanggaRusakk&layout=compact&theme=radial&cache_seconds=86400" />
-</p>
+![LangCard](https://github-languages-card.vercel.app/api/top-languages?username=TanggaRusakk&theme=radial)
 
 ---
 
