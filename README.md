@@ -5,7 +5,7 @@ An **Informatics Student at Ciputra University** passionate about building mobil
 ---
 
 ### 🎓 About Me
-- 📚 Currently pursuing **Informatics Engineering** at Universitas Ciputra.
+- 📚 Currently pursuing **Informatics** at Universitas Ciputra.
 - 📱 Focused on **Mobile App Development** (Android & iOS), **Backend Engineering**, and **Data Analysis/Machine Learning**.
 - 💡 Passionate about clean architecture (MVVM), API design, and statistical data modeling.
 
@@ -52,11 +52,11 @@ An **Informatics Student at Ciputra University** passionate about building mobil
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanggaRusakk&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanggaRusakk&layout=compact&theme=radial" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TanggaRusakk&show_icons=true&theme=radial" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanggaRusakk&layout=compact&theme=radial" width="48%" />
 </p>
 
 ---
 
 📫 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/username-kamu) • [Email](mailto:email-kamu@example.com)
+[LinkedIn](https://linkedin.com/in/anggadhammikajaya/)
