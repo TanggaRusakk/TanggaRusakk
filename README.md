@@ -50,9 +50,5 @@ An **Informatics Student at Ciputra University** passionate about building mobil
 
 ---
 
-![LangCard](https://github-languages-card.vercel.app/api/top-languages?username=TanggaRusakk&theme=radial)
-
----
-
 📫 **Connect with me:**  
 [LinkedIn](https://linkedin.com/in/anggadhammikajaya/)
